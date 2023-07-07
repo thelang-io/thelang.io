@@ -1,0 +1,3 @@
+title: thelang.io
+description: The Programming Language
+exclude: [vendor, CNAME, Gemfile, Gemfile.lock]
